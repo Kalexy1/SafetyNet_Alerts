@@ -1,0 +1,8 @@
+com\safetynet\safetynet_alerts\integration\repository\PersonRepositoryTest.class
+com\safetynet\safetynet_alerts\integration\repository\MedicalRecordRepositoryTest.class
+com\safetynet\safetynet_alerts\integration\service\FireStationServiceTest.class
+com\safetynet\safetynet_alerts\integration\service\JsonDataServiceTest.class
+com\safetynet\safetynet_alerts\integration\service\MedicalRecordServiceTest.class
+com\safetynet\safetynet_alerts\integration\repository\FireStationRepositoryTest.class
+com\safetynet\safetynet_alerts\integration\controller\AlertControllerTest.class
+com\safetynet\safetynet_alerts\integration\service\PersonServiceTest.class
